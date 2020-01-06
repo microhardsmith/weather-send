@@ -3,7 +3,7 @@ name: 'Benrush the best'
 on:
   push:
   schedule:
-    - cron: '* 24 * * *'
+    - cron: '0 0 * * *'
 
 jobs:
   bot:
