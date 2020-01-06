@@ -12,3 +12,5 @@ curl \
   -H "User-Agent: $UA" \
   -o result.html \
   wttr.in/$CITY?format=4\&$UNIT
+  
+echo -e "\n婧婧宝贝！爱你！" >> result.html
